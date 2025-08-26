@@ -13,3 +13,4 @@
 - `git commit -m "mensagem"` → cria um commit
 - `git push origin main` → envia alterações para o GitHub
 - `git pull` → atualiza o repositório local
+- git log` → mostra o histórico de commits
